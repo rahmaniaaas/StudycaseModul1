@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StudyCase</string>
+    <string name="txtWarung">Warung</string>
+    <string name="txtPorsi">Porsi</string>
+    <string name="txtJumlah">Jumlah</string>
+    <string name="txtHarga">Harga</string>
+    <string name="txtHead">Makan Malam</string>
+    <string name="txtMenu">Menu</string>
+    <string name="txtMakanan">Makanan</string>
+    <string name="nJumlah">Jumlah</string>
+    <string name="txtNominal">Nominal</string>
+
+</resources>
