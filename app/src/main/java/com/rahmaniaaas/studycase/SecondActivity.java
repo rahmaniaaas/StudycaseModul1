@@ -35,7 +35,7 @@ public class SecondActivity extends AppCompatActivity {
         makanan.setText(mMakanan);
 
         porsi = (TextView) findViewById(R.id.nJumlah) ;
-        porsi.setText(mHarga);
+        porsi.setText(mPorsi);
 
         nominal = (TextView) findViewById(R.id.nNominal);
         nominal.setText(String.valueOf(mHargatot));
